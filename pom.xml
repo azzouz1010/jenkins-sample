@@ -15,8 +15,8 @@
  </properties>
   
   <properties>
-  <sonar.projectKey>azzouz1010_jenkins-sample</sonar.projectKey>
   <sonar.organization>azzouz1010</sonar.organization>
+  <sonar.projectKey>azzouz1010_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   
