@@ -21,7 +21,7 @@ node () {
 	}
 	
 	stage('Quality check') {
-  	  withSonarQubeEnv('Sonar') {
+  	  withSonarQubeEnv('sonar') {
     	    bat "mvn sonar:sonar"
    	  }
 	}
